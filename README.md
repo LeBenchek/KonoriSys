@@ -27,7 +27,7 @@ de rattrapage…), le tout sous un format PDF imprimable.</li>
    <li>Consulter l’emploi du temps d’affectation de chacun des cours ou TD
 prodigués.</li>
  </p>
- <p><U>Les coordinateurs doivent pouvoir :</U>
+ <p><ins>Les coordinateurs doivent pouvoir :</ins>
   <li>Procéder à l’ajout ou la suppression d’un étudiant de la liste des 
 bacheliers (admission parallèle ou cas de démission ou d’ajournement 
 définitif des élèves)</li>
