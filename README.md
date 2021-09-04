@@ -44,7 +44,12 @@ professeur</li>
 <p><strong>Diagramme de décomposition d'événements</strong></p>
 <img class="fit-picture"
      src="https://scontent.frba1-2.fna.fbcdn.net/v/t1.15752-9/241366898_596721574673301_6880587538151448141_n.png?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeG58dcZDNvnTOCxwF1GTX9sMByNElVstHIwHI0SVWy0cpMimsyxTyWBwWdA-QMDXUjVcSvFsnskAFQSdbPk_Y7h&_nc_ohc=n9m7kTDEz3cAX9wnuy1&_nc_ht=scontent.frba1-2.fna&oh=0b98c77209c2384f7533fb34a5416ec2&oe=6159D944">
-<p><strong>Diagramme de contexe</strong></p>
+<p><strong>Diagramme de contexte</strong></p>
 <img class="fit-picture"
      src="https://user-images.githubusercontent.com/75435299/132094649-7d51dc2e-6c8f-43c7-92c7-827c3bbb5534.png">
 
+<h3>
+ Technologies et frameworks
+</h3>
+<li>Front-end : JavaFX + Scene Builder </li>
+<li> Back-end : JDBC + MySQL (SGBD) </li>
