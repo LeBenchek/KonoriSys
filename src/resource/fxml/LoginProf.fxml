@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="732.0" prefWidth="1292.0" style="-fx-background-color: #20120F;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.LoginProfController">
+	<children>
+		<ImageView fitHeight="496.0" fitWidth="1233.0" layoutX="24.0" layoutY="182.0" opacity="0.6" pickOnBounds="true" preserveRatio="true">
+			<image>
+				<Image url="@../image/insaLogo.png" />
+			</image>
+		</ImageView>
+		<AnchorPane layoutX="700.0" layoutY="90.0" prefHeight="541.0" prefWidth="516.0" style="-fx-background-color: #9C2B27; -fx-background-radius: 20;" stylesheets="@../css/Main.css">
+			<children>
+				<Label id="login" alignment="CENTER" contentDisplay="TOP" layoutX="44.0" layoutY="39.0" prefHeight="70.0" prefWidth="428.0" stylesheets="@../css/Main.css" text="Login" textFill="WHITE">
+					<font>
+						<Font name="Tw Cen MT" size="53.0" />
+					</font>
+				</Label>
+				<TextField fx:id="identifiant" layoutX="92.0" layoutY="173.0" prefHeight="36.0" prefWidth="332.0" promptText="Identifiant">
+					<font>
+						<Font name="Yu Gothic Regular" size="19.0" />
+					</font>
+				</TextField>
+				<PasswordField fx:id="mdp" layoutX="92.0" layoutY="266.0" opacity="0.93" prefHeight="36.0" prefWidth="332.0" promptText="Mot de passe">
+					<font>
+						<Font name="Yu Gothic Regular" size="19.0" />
+					</font>
+				</PasswordField>
+				<Label fx:id="status" layoutX="92.0" layoutY="109.0" prefHeight="39.0" prefWidth="332.0" textFill="WHITE">
+					<font>
+						<Font size="19.0" />
+					</font>
+				</Label>
+            <JFXButton layoutX="166.0" layoutY="381.0" onAction="#Connexion" prefHeight="51.0" prefWidth="184.0" style="-fx-background-color: #8C0000;" text="Connexion" textFill="WHITE">
+               <font>
+                  <Font name="Yu Gothic UI Semibold" size="24.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="191.0" layoutY="446.0" text="Mdp oublié?" textFill="WHITE">
+               <font>
+                  <Font name="Trebuchet MS" size="20.0" />
+               </font>
+            </JFXButton>
+			</children>
+		</AnchorPane>
+		<Label id="title" layoutX="26.0" layoutY="14.0" prefHeight="21.0" prefWidth="419.0" text="Espace Professeur" textFill="WHITE">
+			<font>
+				<Font name="Tw Cen MT Condensed" size="60.0" />
+			</font>
+		</Label>
+      <JFXButton layoutX="26.0" layoutY="102.0" onAction="#Retour" text="&lt; Retour" textFill="WHITE">
+         <font>
+            <Font name="Tw Cen MT" size="30.0" />
+         </font>
+      </JFXButton>
+	</children>
+</AnchorPane>
