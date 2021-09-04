@@ -1,1 +1,3 @@
-#                         KonoriSys | Application CRUD de gestion des étudiants et des professeurs
+<div align="center">
+# KonorySis | Application CRUD de gestion des étudiants 
+</div>
