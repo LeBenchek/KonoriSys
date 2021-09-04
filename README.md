@@ -51,5 +51,6 @@ professeur</li>
 <h3>
  Technologies et frameworks
 </h3>
-<li>Front-end : JavaFX + Scene Builder </li>
+<li>Front-end : JavaFX + Scene Builder <img class="fit-picture"
+     src="https://blog.engineering.publicissapient.fr/wp-content/uploads/2014/09/javafx_logo-300x278.jpg"></li>
 <li> Back-end : JDBC + MySQL (SGBD) </li>
