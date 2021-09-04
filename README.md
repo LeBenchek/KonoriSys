@@ -53,4 +53,6 @@ professeur</li>
 </h3>
 <li>Front-end : JavaFX + Scene Builder </li><img class="fit-picture" width="100px"
      src="https://scontent.frba1-2.fna.fbcdn.net/v/t1.15752-9/148523929_156818559589293_5681294237760392390_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeH0rRCjSazi1PB1b9bkhbcP9m6aSwRgLwP2bppLBGAvA2s4XUGrAo-wZdhwfUd94SpNtq_1KduZIoQ1eLyafj8k&_nc_ohc=yWa3vlgtHCgAX_Vghwr&_nc_ht=scontent.frba1-2.fna&oh=fa3b1ab78e9c5fd8f0ebca624ef91f06&oe=615AF56D">
+     <img class="fit-picture" width="100px"
+     src="https://scontent.frba1-1.fna.fbcdn.net/v/t1.15752-9/241473082_921959918398908_2029760288288338465_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeE-9klgcBe9In3L5YCUbNE4zMeZBs_XJejMx5kGz9cl6Ftkm6npbzh_6M9AYMnHttDIYCKR-pSkGzU4VBnkWy50&_nc_ohc=wsbZNHjcvO8AX9_lib9&_nc_ht=scontent.frba1-1.fna&oh=0aad099b674d983f87078ea8d4c230fa&oe=615AA366">
 <li> Back-end : JDBC + MySQL (SGBD) </li>
