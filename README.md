@@ -40,3 +40,7 @@ bachelier</li>
 professeur</li>
   <li>Consulter l’historique des modifications établies par le professeur</li>
  </p>
+<h3>Fonctionnement et arborescence</h3>
+<img class="fit-picture"
+     src="/media/cc0-images/grapefruit-slice-332-332.jpg"
+     alt="Grapefruit slice atop a pile of other slices">
