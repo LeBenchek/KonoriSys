@@ -55,7 +55,7 @@ professeur</li>
 <li> Back-end : JDBC + MySQL (SGBD) </li>
 <div class="image123">
 <img class="fit-picture" width="100px"
-     src="https://scontent.frba1-2.fna.fbcdn.net/v/t1.15752-9/148523929_156818559589293_5681294237760392390_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeH0rRCjSazi1PB1b9bkhbcP9m6aSwRgLwP2bppLBGAvA2s4XUGrAo-wZdhwfUd94SpNtq_1KduZIoQ1eLyafj8k&_nc_ohc=yWa3vlgtHCgAX_Vghwr&_nc_ht=scontent.frba1-2.fna&oh=fa3b1ab78e9c5fd8f0ebca624ef91f06&oe=615AF56D"><img class="fit-picture" width="100px"
+     src="https://scontent.frba1-2.fna.fbcdn.net/v/t1.15752-9/148523929_156818559589293_5681294237760392390_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeH0rRCjSazi1PB1b9bkhbcP9m6aSwRgLwP2bppLBGAvA2s4XUGrAo-wZdhwfUd94SpNtq_1KduZIoQ1eLyafj8k&_nc_ohc=yWa3vlgtHCgAX_Vghwr&_nc_ht=scontent.frba1-2.fna&oh=fa3b1ab78e9c5fd8f0ebca624ef91f06&oe=615AF56D"><img class="fit-picture" width="125px"
      src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-1920px-MySQL.svg.png">
 <img class="fit-picture" width="100px"
      src="https://scontent.frba1-1.fna.fbcdn.net/v/t1.15752-9/60215770_2312711852151338_8831332322633580544_n.png?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeFc1tBywvNiCH8-y3JmlPaien0GLm_SWgB6fQYub9JaABZaq1XMOCRRUN_LxqC_Z38iXyj4KQ0G8_Apey1p0XgY&_nc_ohc=km8DkWRaf24AX9ZChL5&_nc_ht=scontent.frba1-1.fna&oh=9bd40e5fb5306106ca6909bb0f0f0272&oe=615A1AF2">
