@@ -15,7 +15,7 @@ Description du cahier de charge
   Il s'agit alors d'informatiser les plans d'étude instaurés par le service de scolarité en laissant le plein droit aux professeurs et aux coordinateurs d'apporter leur champ de modification au niveau des attributions de notes, de la décision du jury ainsi que de la consultation de leur emploi du temps.
  </p>
 
-<p><u>Les professeurs doivent pouvoir :</u>
+<p><ins>Les professeurs doivent pouvoir :</ins>
   <li>Renseigner la liste d’absence des bacheliers.</li>
   <li>Paramétrer et indexer la grille d’évaluation de leur propre module 
 (coefficient de TP et des partiels, quantifier le nombre de séances 
